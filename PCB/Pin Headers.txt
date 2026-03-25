@@ -1,0 +1,15 @@
+Pin Headers
+ESP32: 2*10pF, 2*8pF
+BW16: 2*10pF
+MH-CD42: 1*6pF, 1*6pM
+W5500: 2*6pF
+Screen: 1*8pF, 1*8pM
+USB: 1*4pFAR
+Joystick: 1*8pFAL
+
+Total
+4*10pF
+3*8pF, 1*8pM, 1*8pFAL
+3*6pF, 1*6pM
+1*4pFAR
+=14
