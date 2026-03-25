@@ -38,6 +38,8 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 
 ## **1.1 ESP32-S3**
 
+![](https://github.com/leonampa/netpuck/blob/5f600c0f0242c0ecc39c4f41bfe9c777f7e87631/Media/1.1_PINOUT.jpg)
+
 | Pin | As | To | For |
 | :---- | :---- | :---- | :---- |
 | Vbus/40 | \+5V | MH-CD42 @ 5V OUT | Powering the ESP |
@@ -62,6 +64,8 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 
 ## **1.2 BW16**
 
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/1.2_PINOUT.webp)
+
 | Pin | As | To | For |
 | :---- | :---- | :---- | :---- |
 | 5V | \+5V | MH-CD42 @ 5V OUT | Powering the BW16 |
@@ -70,6 +74,8 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 | EN | BW16\_EN | ESP @ GP14/5 | Enable Pin |
 
 ## **1.3 W5500**
+
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/1.3_PINOUT.jpg)
 
 | Pin | As | To | For |
 | :---- | :---- | :---- | :---- |
@@ -81,6 +87,8 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 | MO | SPI\_MOSI | ESP @ GP11/1 | Transferring data via SPI from the ESP32 (Master), to theW5500 (Slave) |
 
 ## **1.4 LCD**
+
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/1.4_PINOUT.jpg)
 
 | Pin | As | To | For |
 | :---- | :---- | :---- | :---- |
@@ -94,6 +102,8 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 
 ## **1.5 Joystick** 
 
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/1.5_PINOUT.jpg)
+
 | Pin | As | To | For |
 | :---- | :---- | :---- | :---- |
 | MID | MID | ESP @ GP34/12 | Joystick’s Click |
@@ -103,6 +113,8 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 | RIGHT | RIGHT | ESP @ GP38/17 | Joystick’s Right |
 
 ## **1.6 MH-CD42 Charging Module**
+
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/1.6_PINOUT.jpg)
 
 | Pin | As | To | For |
 | :---- | :---- | :---- | :---- |
@@ -120,9 +132,16 @@ The Pin/As/To/For tables are read as: The Pin \[Pin\] functions as/is labeled as
 
 I used KiCad to design the PCB. Through a few struggles (as described on Journal), I landed on this design:
 
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/2_front.png)
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/2_back.png)
+
 # **3\. Case**
 
 I used Autodesk Fusion to make the case (as described on Journal). The enclosure is designed for field durability, featuring a 'Sandwich Mount' architecture. It utilizes M3 heat-set inserts and M3 Nylon screws, instead of Stainless Steel, to avoid signal interference.
+
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/3_1.png)
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/3_2.png)
+![](https://github.com/leonampa/netpuck/blob/b12948caa2debe75fde5efd32e5c7002bff795d0/Media/3_3.png)
 
 # **4\. Bill Of Materials**
 
