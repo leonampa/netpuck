@@ -3,7 +3,8 @@
 # **0\. Introduction**
 
 The NetPuck 5G is a handheld device, purpose-built to connect the worlds of software-driven network diagnostics and hardware-focused wireless analysis.
-Made on Hack Club Blueprint 🚩 - [https://blueprint.hackclub.com/projects/13740](https://blueprint.hackclub.com/projects/13740)
+
+Made on Hack Club Blueprint 🚩- [https://blueprint.hackclub.com/projects/13740](https://blueprint.hackclub.com/projects/13740)
 
 ## **0.1 Why did I build this?**
 
