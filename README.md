@@ -1,5 +1,12 @@
 # **NetPuck 5G: A Specialized 5GHz Wireless & Network Auditor**
 
+----------
+
+# 🗃️ This project has been archived.
+**9th May:** It’s been 30 days since my latest ticket to Support, and over five weeks since the last human feedback. At this point, the project has shifted from a fun hardware challenge into a lingering chore on my to-do list. The educational ROI has hit its limit - I’ve already learned what I came for: Fusion 360, KiCad, etc. Since the program has stalled on the administrative side, I’m officially archiving the NetPuck to clear my headspace for projects that actually move forward. 
+
+----------
+
 # **0\. Introduction**
 
 The NetPuck 5G is a handheld device, purpose-built to connect the worlds of software-driven network diagnostics and hardware-focused wireless analysis.
